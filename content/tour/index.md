@@ -134,7 +134,7 @@ sections:
   - block: collection
     content:
       title: 论文
-      text: ""
+      text: "aaaaaaa"
       count: 5
       filters:
         folders:
