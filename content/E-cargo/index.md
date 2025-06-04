@@ -8,65 +8,29 @@ sections:
   - block: hero
     content:
       title: |
-        BoGuan Group
+        E-CARGO
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **BoGuan Team** has been a center of excellence for research, teaching, and practice in E-cargo, deep learning, and large language models since its founding in 2019 at Southwest University.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
+        “基于角色的协同”（Role-Based Collaboration, 简称 RBC）是一种以“角色”为核心组织单位来实现任务协同、资源分配与行为管理的协作机制，广泛应用于多智能体系统、人机协同、企业管理、教育协作等领域。
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      title: 论文
+      text: |
+        ### 2025年
+         1. Jinrui Yang, Shuangyi Fan, Libo Zhang*, Dun Liu*. [A low-rank support tensor machine for multi-classification](https://doi.org/10.1016/j.ins.2024.121398)\[J\]. *Information Sciences*, 2025, 688: 121398.(中科院二区)
+        ### 2024年
+         2. Zhihang Yu, Bo Wang, Haibin Zhu, Libo Zhang*. [Adaptive Equalized Multigroup Role Assignment in Ordered Subtasks](https://doi.org/10.1109/TSMC.2024.3390138)\[J\]. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2024, 54(8): 5085-5098.(中科院一区TOP)
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
+         3. Shuo Lv, Yi Wang, Cong Guo, Libo Zhang*. [Effects of experts on the coupling dynamics of complex contagion of awareness and epidemic spreading](https://doi.org/10.1007/s11071-023-09146-7)\[J\]. *Nonlinear Dynamics*, 2024, 112: 2367-2380.(中科院二区TOP)
+
+         4. Libo Zhang, Denghao Dong, Lianyi Luo, Dun Liu*. [A Novel Fuzzy Large Margin Distribution Machine with Unified Pinball Loss](https://doi.org/10.1109/TFUZZ.2023.3333571)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2024, 32(4): 1782-1795.(中科院一区TOP)
+
+         5. Libo Zhang, Zhihang Yu, Shiyu Wu, Haibin Zhu, Yin Sheng*. [Adaptive collaboration with training plan considering role correlation](https://doi.org/10.1109/TCSS.2022.3204052)\[J\]. *IEEE Transactions on Computational Social Systems*, 2024, 11(1): 25-37.
+        ### 2023年
+         6. Libo Zhang, Qiang Jin, Shuangyi Fan, Dun Liu*. [A Novel Dual-Center Based Intuitionistic Fuzzy Twin Bounded Large Margin Distribution Machines](https://doi.org/10.1109/TFUZZ.2023.3245215)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2023, 31(9)：3121-3134.(中科院一区TOP)
 
   - block: markdown
     content:
