@@ -95,7 +95,7 @@ sections:
       username: 吳恩達
   - block: collection
     title: 论文1
-    text: "aaaaaaa"
+    text: ""
     count: 99
     filters:
       folders:
