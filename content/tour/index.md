@@ -90,7 +90,7 @@ sections:
       text: |
         The **BoGuan Team** has been a center of excellence for research, teaching, and practice in E-cargo, deep learning, and large language models since its founding in 2019 at Southwest University.
   
-  - block: hero
+  - block: custom
     title: 张里博简介
     image: 
         filename: avatar.jpg     # 头像路径，如果有可替换
@@ -133,7 +133,7 @@ sections:
         link: https://scholar.google.com/citations?user=8I-krtYAAAAJ&hl=zh-CN&oi=ao
   - block: collection
     content:
-      title: 论文
+      title: 论文1
       text: "aaaaaaa"
       count: 5
       filters:
@@ -144,14 +144,13 @@ sections:
       view: citation
       columns: '1'
   - block: collection
-    content:
-      title: 竞赛
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - papers
-        publication_type: 'article'
+    title: 竞赛1
+    text: "bbbb"
+    count: 5
+    filters:
+      folders:
+        - papers
+      publication_type: 'article'
     design:
       view: citation
       columns: '1'
