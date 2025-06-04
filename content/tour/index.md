@@ -93,6 +93,28 @@ sections:
     content:
       title: 导师
       username: 吳恩達
+  - block: markdown
+    content:
+      title: 论文
+      text: >
+        我的研究主要聚焦于人工智能领域，特别是机器学习和张量计算。以下是我近期的学术成果，涵盖了高维数据处理、多分类算法等前沿研究方向。
+
+  - block: features
+    content:
+      title: 论文列表
+      text: 点击论文标题可查看详细信息
+      items:
+        - name: "A low-rank support tensor machine for multi-classification"
+          description: "Information Sciences, 2025"
+          icon: file-alt
+          icon_pack: fas
+          url: "/papers/tensor-machine"
+      
+        - name: "分布式机器人协同控制新方法"
+          description: "计算机学报, 2024"
+          icon: file-alt
+          icon_pack: fas
+          url: "/papers/robot-control"
   - block: collection
     title: 论文1
     text: ""
