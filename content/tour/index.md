@@ -91,7 +91,7 @@ sections:
         The **BoGuan Team** has been a center of excellence for research, teaching, and practice in E-cargo, deep learning, and large language models since its founding in 2019 at Southwest University.
   - block: about.biography
     content:
-      title: 关于 吳恩達
+      title: 导师
       username: 吳恩達
   - block: collection
     title: 论文1
