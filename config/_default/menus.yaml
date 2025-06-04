@@ -7,21 +7,21 @@ main:
   - name: Tour
     url: tour
     weight: 10
-  - name: News
-    url: post
+  - name: Home
+    url: publication
     weight: 20
-  - name: People
-    url: people
+  - name: 大模型
+    url: post
     weight: 30
   - name: E-cargo
     url: "#E-cargo"
-    weight: 30
-  - name: Events
-    url: event
     weight: 40
-  - name: Publications
-    url: publication
+  - name: LDM
+    url: event
     weight: 50
+  - name: People
+    url: people
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
