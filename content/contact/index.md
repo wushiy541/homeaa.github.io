@@ -3,7 +3,6 @@ title: Contact
 date: 2022-10-24
 
 type: landing
-
 sections:
   - block: contact
     content:
@@ -17,8 +16,8 @@ sections:
         postcode: '400715'
         country: 中国
       coordinates:
-        latitude: '29.8254'
-        longitude: '106.4325'
+        latitude: '29.828845'
+        longitude: '106.434215'
       directions: 导航西南大学出版社大楼即可
       office_hours:
         - 'Monday 10:00 to 13:00'
