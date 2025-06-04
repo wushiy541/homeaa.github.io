@@ -13,6 +13,9 @@ main:
   - name: People
     url: people
     weight: 30
+  - name: E-cargo
+    url: E-cargo
+    weight: 30
   - name: Events
     url: event
     weight: 40

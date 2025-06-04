@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to BoGuan
         content: Take a look at what we're working on...
         align: center
         background:
@@ -18,7 +18,37 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: E-cargo ☕️
+        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'    
+      - title: LDM ☕️
+        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: 深度学习 ☕️
+        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: 大模型 ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
