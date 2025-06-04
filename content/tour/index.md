@@ -94,17 +94,28 @@ sections:
       title: 关于 吳恩達
       username: 吳恩達
   - block: collection
-    content:
-      title: 论文1
-      text: "aaaaaaa"
-      count: 5
-      filters:
-        folders:
-          - papers
-        publication_type: 'article'
+    title: 论文1
+    text: "aaaaaaa"
+    count: 5
+    filters:
+      folders:
+         - papers
+      publication_type: 'article'
     design:
       view: citation
       columns: '1'
+  - block: collection
+    title: 竞赛1
+    text: "bbbb"
+    count: 5
+    filters:
+      folders:
+        - papers
+      publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
+
   - block: markdown
     content:
       title:
