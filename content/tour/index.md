@@ -96,7 +96,7 @@ sections:
   - block: collection
     title: 论文1
     text: "aaaaaaa"
-    count: 5
+    count: 99
     filters:
       folders:
          - papers
@@ -107,7 +107,7 @@ sections:
   - block: collection
     title: 竞赛1
     text: "bbbb"
-    count: 5
+    count: 99
     filters:
       folders:
         - papers
