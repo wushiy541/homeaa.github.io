@@ -17,7 +17,7 @@ main:
     url: "#E-cargo"
     weight: 40
   - name: LDM
-    url: event
+    url: "#LDM"
     weight: 50
   - name: People
     url: people
