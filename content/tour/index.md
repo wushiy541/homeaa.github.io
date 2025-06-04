@@ -104,17 +104,22 @@ sections:
       title: 论文列表
       text: 点击论文标题可查看详细信息
       items:
-        - name: "A low-rank support tensor machine for multi-classification"
+        - name: "[A low-rank support tensor machine for multi-classification](https://doi.org/10.1016/j.ins.2024.121398)"
           description: "Information Sciences, 2025"
-          icon: file-alt
+          icon: file-pdf
           icon_pack: fas
-          url: "/papers/tensor-machine"
+          url: "https://doi.org/10.1016/j.ins.2024.121398"
       
-        - name: "分布式机器人协同控制新方法"
+        - name: "[分布式机器人协同控制新方法](/papers/robot-control)"
           description: "计算机学报, 2024"
-          icon: file-alt
+          icon: file-pdf
           icon_pack: fas
           url: "/papers/robot-control"
+    design:
+      # 强制垂直布局
+      columns: '1'
+      # 可选：调整卡片样式
+      css_class: 'feature-vertical'
   - block: collection
     title: 论文1
     text: ""
