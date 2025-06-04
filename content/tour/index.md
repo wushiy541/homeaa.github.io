@@ -92,7 +92,7 @@ sections:
   - block: about.biography
     content:
       title: 导师
-      username: 吳恩達
+      username: 张里博
   - block: markdown
     content:
       title: 论文
@@ -170,7 +170,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="https://boguangroup.github.io/boguan/people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
