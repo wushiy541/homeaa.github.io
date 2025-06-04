@@ -59,7 +59,6 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
-citation: 张里博, 李明, 王华. (2024). 大规模语言模型中的注意力机制研究. 人工智能学报, 45(2), 123-145. DOI: 10.1007/s00146-024-01234-5
 ---
 
 {{% callout note %}}
