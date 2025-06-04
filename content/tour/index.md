@@ -120,6 +120,17 @@ sections:
       columns: '1'
       # 可选：调整卡片样式
       css_class: 'feature-vertical'
+  - block: markdown
+    content:
+      title: 论文列表
+      text: |
+        ### 2025年
+        - [A low-rank support tensor machine for multi-classification](./papers/tensor-machine) - *Information Sciences*
+        - 分布式机器人协同控制新方法 - *计算机学报*
+
+        ### 2024年
+        - 机器学习新进展 - *人工智能学报*
+        - 深度学习算法研究 - *计算机研究与发展*
   - block: collection
     title: 论文1
     text: ""
