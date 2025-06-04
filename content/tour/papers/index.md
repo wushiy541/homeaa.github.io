@@ -1,7 +1,7 @@
 ---
 title: "A low-rank support tensor machine for multi-classification[J]"
 authors:
-- Jinrui Yang
+- Jinrui Yang1
 - Shuangyi Fan
 - Libo Zhang* 
 - Dun Liu*. 
