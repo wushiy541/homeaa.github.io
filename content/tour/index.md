@@ -92,7 +92,8 @@ sections:
   
   - block: hero
     title: 张里博简介
-    image: avatar.jpg     # 头像路径，如果有可替换
+    image: 
+        filename: avatar.jpg     # 头像路径，如果有可替换
     name: 张里博
     role: 副教授
     organization: 西南大学 人工智能学院
@@ -137,7 +138,7 @@ sections:
       count: 5
       filters:
         folders:
-          - publication
+          - papers
         publication_type: 'article'
     design:
       view: citation
@@ -149,7 +150,7 @@ sections:
       count: 5
       filters:
         folders:
-          - publication
+          - papers
         publication_type: 'article'
     design:
       view: citation
