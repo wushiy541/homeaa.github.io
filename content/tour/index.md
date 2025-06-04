@@ -96,63 +96,24 @@ sections:
   - block: markdown
     content:
       title: 论文
-      text: >
-        我的研究主要聚焦于人工智能领域，特别是机器学习和张量计算。以下是我近期的学术成果，涵盖了高维数据处理、多分类算法等前沿研究方向。
-
-  - block: features
-    content:
-      title: 论文列表
-      text: 点击论文标题可查看详细信息
-      items:
-        - name: "[A low-rank support tensor machine for multi-classification](https://doi.org/10.1016/j.ins.2024.121398)"
-          description: "Information Sciences, 2025"
-          icon: file-pdf
-          icon_pack: fas
-          url: "https://doi.org/10.1016/j.ins.2024.121398"
-      
-        - name: "[分布式机器人协同控制新方法](/papers/robot-control)"
-          description: "计算机学报, 2024"
-          icon: file-pdf
-          icon_pack: fas
-          url: "/papers/robot-control"
-    design:
-      # 强制垂直布局
-      columns: '1'
-      # 可选：调整卡片样式
-      css_class: 'feature-vertical'
-  - block: markdown
-    content:
-      title: 论文列表
       text: |
         ### 2025年
-        - [A low-rank support tensor machine for multi-classification](./papers/tensor-machine) - *Information Sciences*
-        - 分布式机器人协同控制新方法 - *计算机学报*
-
+        - Jinrui Yang, Shuangyi Fan, Libo Zhang*, Dun Liu*. [A low-rank support tensor machine for multi-classification](https://doi.org/10.1016/j.ins.2024.121398)\[J\]. *Information Sciences*, 2025, 688: 121398.(中科院二区)
+        - Zhihang Yu, Bo Wang, Haibin Zhu, Libo Zhang*. 【Adaptive Equalized Multigroup Role Assignment in Ordered Subtasks](https://doi.org/10.1109/TSMC.2024.3390138)\[J\]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024, 54(8): 5085-5098.(中科院一区TOP)
         ### 2024年
         - 机器学习新进展 - *人工智能学报*
         - 深度学习算法研究 - *计算机研究与发展*
-  - block: collection
-    title: 论文1
-    text: ""
-    count: 99
-    filters:
-      folders:
-         - papers
-      publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-  - block: collection
-    title: 竞赛1
-    text: "bbbb"
-    count: 99
-    filters:
-      folders:
-        - papers
-      publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
+  
+  - block: markdown
+    content:
+      title: 竞赛
+      text: |
+        ### 2025年
+        - Jinrui Yang, Shuangyi Fan, Libo Zhang*, Dun Liu*. [A low-rank support tensor machine for multi-classification](https://doi.org/10.1016/j.ins.2024.121398)\[J\]. *Information Sciences*, 2025, 688: 121398.(中科院二区)
+        - Zhihang Yu, Bo Wang, Haibin Zhu, Libo Zhang*. 【Adaptive Equalized Multigroup Role Assignment in Ordered Subtasks](https://doi.org/10.1109/TSMC.2024.3390138)\[J\]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024, 54(8): 5085-5098.(中科院一区TOP)
+        ### 2024年
+        - 机器学习新进展 - *人工智能学报*
+        - 深度学习算法研究 - *计算机研究与发展*
 
   - block: markdown
     content:
