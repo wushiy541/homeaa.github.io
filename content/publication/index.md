@@ -15,7 +15,7 @@ sections:
         <br>
         
         The **BoGuan Team** has been a center of excellence for research, teaching, and practice in E-cargo, deep learning, and large language models since its founding in 2019 at Southwest University.
-  - block: people
+  - block: hero
     title: 张里博简介
     image: avatar.jpg     # 头像路径，如果有可替换
     name: 张里博
@@ -57,46 +57,20 @@ sections:
         link: https://scholar.google.com/citations?user=8I-krtYAAAAJ&hl=zh-CN&oi=ao
   - block: collection
     content:
-      title: Latest News
-      subtitle:
-      text:
+      title: 论文
+      text: ""
       count: 5
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+        folders:
+          - publication
+        publication_type: 'article'
     design:
-      view: card
+      view: citation
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
   - block: collection
     content:
-      title: Latest Preprints
+      title: 竞赛
       text: ""
       count: 5
       filters:
