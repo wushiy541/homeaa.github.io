@@ -25,10 +25,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 大模型
+  - 机器学习
   - 深度学习
-  - LDM
-  - E-cargo
+  - 大模型
+  - 智能决策
+  - 智能协作等
 
 education:
   courses:
