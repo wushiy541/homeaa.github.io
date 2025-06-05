@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ldm
-date: 2025-06-06
+title:
+date: 2025-06-05
 type: landing
 
 sections:
