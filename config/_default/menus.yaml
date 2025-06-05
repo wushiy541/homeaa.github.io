@@ -14,10 +14,10 @@ main:
     url: post
     weight: 30
   - name: E-cargo
-    url: "#E-cargo"
+    url: E-cargo
     weight: 40
   - name: LDM
-    url: "#LDM"
+    url: LDM
     weight: 50
   - name: People
     url: people
