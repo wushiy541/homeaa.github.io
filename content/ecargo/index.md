@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        E-CARGOAA
+        E-CARGO
       image:
         filename: ecargo.jpg
       text: |
