@@ -46,7 +46,13 @@ sections:
          12. Libo Zhang; Cong Guo; Linxia Zhang; Yin Sheng*. [A three-way human-robot task assignment method under intuitionistic fuzzy environment](https://doi.org/10.1109/CSCWD49262.2021.9437773)\[C\]. *2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, 2021: 587-592.
 
         ### 早期文章
-         13. Libo Zhang*, Tianxing Wang, Huaxiong Li, Bing Huang, Xianzhong Zhou*. [Agent evaluation based on multi-source heterogeneous information table using TOPSIS](https://doi.org/10.1016/j.aei.2019.100971)\[J\]. *Advanced Engineering Informatics*, 2019, 42：100971.         
+         13. Libo Zhang*, Tianxing Wang, Huaxiong Li, Bing Huang, Xianzhong Zhou*. [Agent evaluation based on multi-source heterogeneous information table using TOPSIS](https://doi.org/10.1016/j.aei.2019.100971)\[J\]. *Advanced Engineering Informatics*, 2019, 42：100971.  
+  - block: markdown
+    content:
+      title: 三支决策论文
+      text: |
+        ### 2025年   
+           1. Shuo Lv, Yi Wang, Cong Guo, Libo Zhang*. [Effects of experts on the coupling dynamics of complex contagion of awareness and epidemic spreading](https://doi.org/10.1007/s11071-023-09146-7)\[J\]. *Nonlinear Dynamics*, 2024, 112: 2367-2380.(中科院二区TOP)
   - block: markdown
     content:
       title:
