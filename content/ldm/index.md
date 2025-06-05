@@ -19,16 +19,20 @@ sections:
       text: |
         ### 2025年
          1. Jinrui Yang, Shuangyi Fan, Libo Zhang*, Dun Liu*. [A low-rank support tensor machine for multi-classification](https://doi.org/10.1016/j.ins.2024.121398)\[J\]. *Information Sciences*, 2025, 688: 121398.(中科院二区)
+         2. Li Liu, Jinrui Guo, Ziqi Yin, Rui Chen, Guojun Huang*. [A novel three-way distance-based fuzzy large margin distribution machine for imbalance classification](https://doi.org/10.1007/s40747-024-00791-3) \[J\]. *Complex & Intelligent Systems*, 2025, 11(3): 176.
         ### 2024年
-         2. Zhihang Yu, Bo Wang, Haibin Zhu, Libo Zhang*. [Adaptive Equalized Multigroup Role Assignment in Ordered Subtasks](https://doi.org/10.1109/TSMC.2024.3390138)\[J\]. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2024, 54(8): 5085-5098.(中科院一区TOP)
-
-         3. Shuo Lv, Yi Wang, Cong Guo, Libo Zhang*. [Effects of experts on the coupling dynamics of complex contagion of awareness and epidemic spreading](https://doi.org/10.1007/s11071-023-09146-7)\[J\]. *Nonlinear Dynamics*, 2024, 112: 2367-2380.(中科院二区TOP)
-
-         4. Libo Zhang, Denghao Dong, Lianyi Luo, Dun Liu*. [A Novel Fuzzy Large Margin Distribution Machine with Unified Pinball Loss](https://doi.org/10.1109/TFUZZ.2023.3333571)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2024, 32(4): 1782-1795.(中科院一区TOP)
-
-         5. Libo Zhang, Zhihang Yu, Shiyu Wu, Haibin Zhu, Yin Sheng*. [Adaptive collaboration with training plan considering role correlation](https://doi.org/10.1109/TCSS.2022.3204052)\[J\]. *IEEE Transactions on Computational Social Systems*, 2024, 11(1): 25-37.
+         3. Libo Zhang, Denghao Dong, Lianyi Luo, Dun Liu*. [A Novel Fuzzy Large Margin Distribution Machine with Unified Pinball Loss](https://doi.org/10.1109/TFUZZ.2023.3333571)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2024, 32(4): 1782-1795.(中科院一区TOP)
+         4. Jinrui Yang, Shuangyi Fan, Li Liu, Libo Zhang*. [Optimal margin distribution matrix machine](https://doi.org/10.1016/j.eswa.2023.122497) \[J\]. *Expert Systems with Applications*, 2024, 240: 122497.(中科院一区)
+         5. Junlin Chen, Tao Luo, Jia Yan, Libo Zhang*. [A novel twin-center intuitionistic fuzzy large margin classifier with unified pinball loss for improving the performance of E-noses system](https://doi.org/10.1016/j.eswa.2024.123883) \[J\]. *Expert Systems with Applications*, 2024, 250: 123883.(中科院一区)
+         6. Shuangyi Fan, Heng Li, Cong Guo, Dun Liu, Libo Zhang*. [A novel cost-sensitive three-way intuitionistic fuzzy large margin classifier](https://doi.org/10.1016/j.ins.2024.120726) \[J\]. *Information Sciences*, 2024, 674: 120726.
+         Denghao Dong, Minyu Feng, Jürgen Kurths, Libo Zhang*. [Fuzzy large margin distribution machine for classification](https://doi.org/10.1007/s13042-024-00556-7) \[J\]. *International Journal of Machine Learning and Cybernetics*, 2024, 15(5): 1891-1905. 
+         7. Danlin Shao, Yixi Dai, Junjie Li, Shenglin Li, Rui Chen*. [A K-means triangular synthesis large margin classifier with unified pinball loss for imbalanced data](https://doi.org/10.1016/j.asoc.2024.112349) \[J\]. *Applied Soft Computing*, 2024, 167: 112349.
+         
         ### 2023年
-         6. Libo Zhang, Qiang Jin, Shuangyi Fan, Dun Liu*. [A Novel Dual-Center Based Intuitionistic Fuzzy Twin Bounded Large Margin Distribution Machines](https://doi.org/10.1109/TFUZZ.2023.3245215)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2023, 31(9)：3121-3134.(中科院一区TOP)
+         8. Libo Zhang, Qiang Jin, Shuangyi Fan, Dun Liu*. [A Novel Dual-Center Based Intuitionistic Fuzzy Twin Bounded Large Margin Distribution Machines](https://doi.org/10.1109/TFUZZ.2023.3245215)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2023, 31(9)：3121-3134.(中科院一区TOP)
+         9. Libo Zhang, Qiang Jin, Shuangyi Fan, Dun Liu*. [A Novel Dual-Center-Based Intuitionistic Fuzzy Twin Bounded Large Margin Distribution Machines](https://doi.org/10.1109/TFUZZ.2023.3245215) \[J\]. *IEEE Transactions on Fuzzy Systems*, 2023, 31(9): 3121-3134.(中科院一区TOP)
+         10. Lianyi Luo, Junjie Li, Yixi Dai, Libo Zhang*. [A Novel Bi-Center Intuitionistic Fuzzy Large Margin Classifier](https://doi.org/10.1109/ICCSSE59359.2023.10245296) \[C\]. *2023 9th International Conference on Control Science and Systems Engineering (ICCSSE)*, 2023: 403-408.
+         
 
   - block: markdown
     content:

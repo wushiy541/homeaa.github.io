@@ -33,15 +33,15 @@ sections:
 
 
         ### 2023年
-         8. Shiyu Wu, Meiqiao Pan, Yanyan Fan, Shenglin Li, Libo Zhang*. [Group Role Assignment with a Training Plan Considering the Duration in Adaptive Collaboration](https://doi.org/10.1109/CSCWD57460.2023.10152561) \[C\]. *2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, 2023: 739-744.
+         8. Shiyu Wu, Meiqiao Pan, Yanyan Fan, Shenglin Li, Libo Zhang*. [Group Role Assignment with a Training Plan Considering the Duration in Adaptive Collaboration](https://doi.org/10.1109/CSCWD57460.2023.10152561)\[C\]. *2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, 2023: 739-744.
 
 
         ### 2022年
-         9. Cong Guo, Shiyu Wu, Haibin Zhu, Yin Sheng, Libo Zhang*. [Adaptive Collaboration with a Training Plan](https://doi.org/10.1109/CSCWD54268.2022.9776304) \[C\]. *2022 IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, 2022: 389-394.
+         9. Cong Guo, Shiyu Wu, Haibin Zhu, Yin Sheng, Libo Zhang*. [Adaptive Collaboration with a Training Plan](https://doi.org/10.1109/CSCWD54268.2022.9776304)\[C\]. *2022 IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, 2022: 389-394.
          10. Zhihang Yu, Ruisi Yang, Xiangjun Liu, Haibin Zhu, Libo Zhang*. [Multi-Group Role Assignment with Constraints in Adaptive Collaboration](https://doi.org/10.1109/SMC53654.2022.9945590)\[C\]. *2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2022: 748-754.
         
         ### 2021年
-         11. Libo Zhang, Zhihang Yu, Haibin Zhu, Yin Sheng. [Group Role Assignment with a Training Plan](https://doi.org/10.1109/ICNSC52481.2021.9702183) \[C\]. *2021 IEEE International Conference on Networking, Sensing and Control (ICNSC)*, 2021: 1-6.
+         11. Libo Zhang, Zhihang Yu, Haibin Zhu, Yin Sheng. [Group Role Assignment with a Training Plan](https://doi.org/10.1109/ICNSC52481.2021.9702183)\[C\]. *2021 IEEE International Conference on Networking, Sensing and Control (ICNSC)*, 2021: 1-6.
 
          12. Libo Zhang; Cong Guo; Linxia Zhang; Yin Sheng*. [A three-way human-robot task assignment method under intuitionistic fuzzy environment](https://doi.org/10.1109/CSCWD49262.2021.9437773)\[C\]. *2021 IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, 2021: 587-592.
 
