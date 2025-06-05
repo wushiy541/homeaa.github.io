@@ -17,7 +17,7 @@ main:
     url: E-cargo
     weight: 40
   - name: LDM
-    url: LDM
+    url: ldm
     weight: 50
   - name: People
     url: people
