@@ -15,7 +15,7 @@ sections:
         “基于角色的协同”（Role-Based Collaboration, 简称 RBC）是一种以“角色”为核心组织单位来实现任务协同、资源分配与行为管理的协作机制，广泛应用于多智能体系统、人机协同、企业管理、教育协作等领域。
   - block: markdown
     content:
-      title: 论文
+      title: E-cargo论文
       text: |
         ### 2025年
          1. Shiyu Wu, Shenglin Li, Haibin Zhu, Rui Chen, Libo Zhang*, [Group Role Three-Way Assignment for Managing Uncertainty in Role Negotiation](https://doi.org/10.1109/TCYB.2025.3558402)\[J\]. *IEEE Transactions on Cybernetics*, 2025, 55(6): 2924-2936.(中科院一区TOP)
@@ -47,7 +47,10 @@ sections:
 
         ### 早期文章
          13. Libo Zhang*, Tianxing Wang, Huaxiong Li, Bing Huang, Xianzhong Zhou*. [Agent evaluation based on multi-source heterogeneous information table using TOPSIS](https://doi.org/10.1016/j.aei.2019.100971)\[J\]. *Advanced Engineering Informatics*, 2019, 42：100971.
-
+  - block: markdown
+    content:
+      title: 三支决策与网络传播论文
+         1. Shuo Lv, Yi Wang, Cong Guo, Libo Zhang*. [Effects of experts on the coupling dynamics of complex contagion of awareness and epidemic spreading](https://doi.org/10.1007/s11071-023-09146-7)\[J\]. *Nonlinear Dynamics*, 2024, 112: 2367-2380.(中科院二区TOP)
          
   - block: markdown
     content:
