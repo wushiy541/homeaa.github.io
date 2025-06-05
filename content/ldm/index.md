@@ -8,11 +8,11 @@ sections:
   - block: hero
     content:
       title: |
-        E-CARGO
+        LDM
       image:
         filename: E-cargo.png
       text: |
-        “基于角色的协同”（Role-Based Collaboration, 简称 RBC）是一种以“角色”为核心组织单位来实现任务协同、资源分配与行为管理的协作机制，广泛应用于多智能体系统、人机协同、企业管理、教育协作等领域。
+        “Large-Margin Distribution Machine (LDM)，即大间隔分布机，是一种基于支持向量机（SVM）原理的机器学习模型，旨在通过最大化不同类别之间的间隔来提高分类及回归性能。它不仅考虑决策边界的最优设置，还关注样本数据的概率分布，从而增强了模型的鲁棒性和泛化能力。LDM 广泛应用于图像分类、文本分析和生物信息学等领域，凭借其灵活性和对复杂数据的适应性，成为解决多种任务的有效工具。。
   - block: markdown
     content:
       title: 论文
