@@ -49,9 +49,9 @@ sections:
          13. Libo Zhang*, Tianxing Wang, Huaxiong Li, Bing Huang, Xianzhong Zhou*. [Agent evaluation based on multi-source heterogeneous information table using TOPSIS](https://doi.org/10.1016/j.aei.2019.100971)\[J\]. *Advanced Engineering Informatics*, 2019, 42：100971.  
   - block: markdown
     content:
-      title: 三支决策论文
+      title: 三支决策与网络传播论文
       text: |
-        ### 2025年   
+        ### 2024年   
            1. Shuo Lv, Yi Wang, Cong Guo, Libo Zhang*. [Effects of experts on the coupling dynamics of complex contagion of awareness and epidemic spreading](https://doi.org/10.1007/s11071-023-09146-7)\[J\]. *Nonlinear Dynamics*, 2024, 112: 2367-2380.(中科院二区TOP)
   - block: markdown
     content:
