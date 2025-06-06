@@ -30,18 +30,17 @@ sections:
 
          5. Ku Zhao, Tao Luo, Kehan Chen, Libo Zhang*. [Data Uncertainty Learning in Breast Cancer Recognition](https://doi.org/10.1109/DOCS60977.2023.10294729)\[C\]. In *2023 5th International Conference on Data-driven Optimization of Complex Systems (DOCS)*, 2023, pp. 1-6.
 
-         6. Shiyu Wu, Meiqiao Pan, Yanyan Fan, Shenglin Li, Libo Zhang*. [Group Role Assignment with a Training Plan Considering the Duration in Adaptive Collaboration](https://doi.org/10.1109/CSCWD57460.2023.10152561)\[C\]. *2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, 2023: 739-744.
 
 
         ### 2022年
-         7. Weiming Xiong, Mingyang Zhong, Cong Guo, Huamin Wang, Libo Zhang*. [MFGAN: A Novel CycleGAN-Based Network for Masked Face Generation](https://people.cs.pitt.edu/~chang/seke/seke22paper/paper016.pdf)\[C\]. In *The Thirty Fourth International Conference on Software Engineering and Knowledge Engineering (SEKE 2022)*, 2022, pp. 112-117.(CCF C)
+         6. Weiming Xiong, Mingyang Zhong, Cong Guo, Huamin Wang, Libo Zhang*. [MFGAN: A Novel CycleGAN-Based Network for Masked Face Generation](https://people.cs.pitt.edu/~chang/seke/seke22paper/paper016.pdf)\[C\]. In *The Thirty Fourth International Conference on Software Engineering and Knowledge Engineering (SEKE 2022)*, 2022, pp. 112-117.(CCF C)
 
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./contact/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---

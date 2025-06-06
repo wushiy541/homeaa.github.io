@@ -16,7 +16,7 @@ sections:
         postcode: '400715'
         country: 中国
       coordinates:
-        latitude: '29'  #变小'29.828845'
+        latitude: '29.827845'  #变小'29.828845'
         longitude: '106.434215'
       directions: 地址仅供参考，但请邮件联系。
       office_hours:
