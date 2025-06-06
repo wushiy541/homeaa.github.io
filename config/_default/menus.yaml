@@ -7,9 +7,9 @@ main:
   - name: Home
     url: tour
     weight: 10
-#  - name: Home
-#    url: publication
-#    weight: 20
+  - name: 深度学习
+    url: deeplearning
+    weight: 20
   - name: 大模型
     url: post
     weight: 30

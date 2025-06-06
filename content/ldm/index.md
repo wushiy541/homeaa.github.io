@@ -19,7 +19,8 @@ sections:
       text: |
         ### 2025年
          1. Jinrui Yang, Shuangyi Fan, Libo Zhang*, Dun Liu*. [A low-rank support tensor machine for multi-classification](https://doi.org/10.1016/j.ins.2024.121398)\[J\]. *Information Sciences*, 2025, 688: 121398.(中科院二区)
-         2. Li Liu, Jinrui Guo, Ziqi Yin, Rui Chen, Guojun Huang*. [A novel three-way distance-based fuzzy large margin distribution machine for imbalance classification](https://doi.org/10.1007/s40747-024-00791-3) \[J\]. *Complex & Intelligent Systems*, 2025, 11(3): 176.
+         2. Li Liu, Jinrui Guo, Ziqi Yin, Rui Chen, Guojun Huang*. [A novel three-way distance-based fuzzy large margin distribution machine for imbalance classification](https://doi.org/10.1007/s40747-025-01797-w) \[J\]. *Complex & Intelligent Systems*, 2025, 11(3): 176.
+
         ### 2024年
          3. Libo Zhang, Denghao Dong, Lianyi Luo, Dun Liu*. [A Novel Fuzzy Large Margin Distribution Machine with Unified Pinball Loss](https://doi.org/10.1109/TFUZZ.2023.3333571)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2024, 32(4): 1782-1795.(中科院一区TOP)
          4. Jinrui Yang, Shuangyi Fan, Li Liu, Libo Zhang*. [Optimal margin distribution matrix machine](https://doi.org/10.1016/j.eswa.2023.122497)\[J\]. *Expert Systems with Applications*, 2024, 240: 122497.(中科院一区)
@@ -27,6 +28,7 @@ sections:
          6. Shuangyi Fan, Heng Li, Cong Guo, Dun Liu, Libo Zhang*. [A novel cost-sensitive three-way intuitionistic fuzzy large margin classifier](https://doi.org/10.1016/j.ins.2024.120726)\[J\]. *Information Sciences*, 2024, 674: 120726.
          Denghao Dong, Minyu Feng, Jürgen Kurths, Libo Zhang*. [Fuzzy large margin distribution machine for classification](https://doi.org/10.1007/s13042-024-00556-7) \[J\]. *International Journal of Machine Learning and Cybernetics*, 2024, 15(5): 1891-1905. 
          7. Danlin Shao, Yixi Dai, Junjie Li, Shenglin Li, Rui Chen*. [A K-means triangular synthesis large margin classifier with unified pinball loss for imbalanced data](https://doi.org/10.1016/j.asoc.2024.112349)\[J\]. *Applied Soft Computing*, 2024, 167: 112349.
+         
          
         ### 2023年
          8. Libo Zhang, Qiang Jin, Shuangyi Fan, Dun Liu*. [A Novel Dual-Center Based Intuitionistic Fuzzy Twin Bounded Large Margin Distribution Machines](https://doi.org/10.1109/TFUZZ.2023.3245215)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2023, 31(9)：3121-3134.(中科院一区TOP)

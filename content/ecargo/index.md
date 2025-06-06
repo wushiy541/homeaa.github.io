@@ -50,9 +50,10 @@ sections:
   - block: markdown
     content:
       title: 三支决策与网络传播论文
-      text: |
-        ### 2024年   
+      text: |  
            1. Shuo Lv, Yi Wang, Cong Guo, Libo Zhang*. [Effects of experts on the coupling dynamics of complex contagion of awareness and epidemic spreading](https://doi.org/10.1007/s11071-023-09146-7)\[J\]. *Nonlinear Dynamics*, 2024, 112: 2367-2380.(中科院二区TOP)
+           2. Libo Zhang, Cong Guo, Minyu Feng*. [Effect of local and global information on the dynamical interplay between awareness and epidemic transmission in multiplex networks](https://doi.org/10.1063/5.0083003)\[J\]. *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 2022, 32(8).
+           3. 
   - block: markdown
     content:
       title:
