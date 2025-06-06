@@ -171,7 +171,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="https://boguanteam.github.io/contact/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="../contact/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
