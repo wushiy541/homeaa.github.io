@@ -2,7 +2,7 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-
+# url只能是小写字母！
 main:
   - name: Home
     url: tour
@@ -11,7 +11,7 @@ main:
     url: deeplearning
     weight: 20
   - name: 大模型
-    url: bigM
+    url: bigmodel
     weight: 30
   - name: E-cargo
     url: ecargo

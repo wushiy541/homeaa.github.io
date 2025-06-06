@@ -16,12 +16,11 @@ sections:
         postcode: '400715'
         country: 中国
       coordinates:
-        latitude: '29.828845'
+        latitude: '29'  #变小'29.828845'
         longitude: '106.434215'
-      directions: 导航西南大学出版社大楼即可
+      directions: 地址仅供参考，但请邮件联系。
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - '会于七日内回复邮件。'
       #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
