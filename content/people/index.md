@@ -19,7 +19,7 @@ sections:
           - Alumni
           - 导师
       sort_by: Params.last_name
-      sort_ascending: false
+      sort_ascending: true
     design:
       show_interests: true
       show_role: true
