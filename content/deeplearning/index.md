@@ -20,6 +20,7 @@ sections:
         ### 2025年
          1. Weiming Xiong, Mingyang Zhong, Shenglin Li, Haibin Zhu, Guojun Huang, Libo Zhang, RUL: Region Uncertainty Learning for Robust Face Recognition\[J\]. *IEEE Transactions on Multimedia*.(中科院一区)
         ### 2024年
+        
          2. Dong Li, Weiming Xiong, Tao Luo, Libo Zhang*. [3WAUS: A novel three-way adaptive uncertainty-suppressing model for facial expression recognition](https://doi.org/10.1016/j.ins.2024.120962)\[J\]. *Information Sciences*, 2024, 677: 120962.(中科院二区)
 
         ### 2023年
