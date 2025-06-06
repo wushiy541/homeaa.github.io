@@ -58,7 +58,7 @@ social:
     link: 'lbzhang@swu.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=8I-krtYAAAAJ&hl=zh-CN&oi=ao
   - icon: github
     icon_pack: fab
     link: https://scholar.google.com/citations?user=8I-krtYAAAAJ&hl=zh-CN&oi=ao
@@ -74,8 +74,8 @@ email: 'lbzhang@swu.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - 导师
+#  - Visitors   如果增加会添加一个类别
 ---
 
 张里博，副教授，硕士生导师，中国计算机学会高级会员。2019年3月博士毕业于南京大学，曾受国家留学基金委/澳大利亚国立大学大学联合奖学金资助前往澳大利亚国立大学交换一年。研究领域为机器学习、深度学习和智能决策等，近些年也从事大模型、不确定性学习及智能协同协作等方面的研究，以第一作者（或通讯作者）在IEEE TSMC-SYSTEM、IEEE TFS、IEEE TCSS等发表论文二十余篇；主持国家自然科学基金青年基金1项和省部级项目多项。曾担任Frontiers in Physics (WOS Q2)客座主编、IEEE ScalCom 国际会议宣传主席等，曾受邀在多个学术会议做特邀报告。指导学生获挑战杯全国一等奖（黑科技赛道“恒星级”）、机器人及人工智能大赛全国一等奖、中国高校计算机大赛全国一等奖、高教社杯全国大学生数学建模竞赛全国二等奖等，曾荣获机器人及人工智能大赛优秀指导老师等。欢迎成绩优异、有良好反思与自我管理能力的学生加入我们团队。
