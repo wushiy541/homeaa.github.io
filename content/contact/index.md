@@ -4,7 +4,7 @@ date: 2022-10-24
 
 type: landing
 sections:
-  - block: markdown
+  - block: contact
     content:
       title: Contact
       text: |-

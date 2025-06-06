@@ -9,7 +9,9 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to BoGuan
-        content: Take a look at what we're working on...
+        content: 博观远志，抱艺修身。
+
+                 Take a look at what we're working on...
         align: center
         background:
           image:
@@ -29,7 +31,7 @@ sections:
           position: center
           color: '#555'    
       - title: LDM 📊
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: '最大化间隔。'
         align: left
         background:
           image:
@@ -39,7 +41,7 @@ sections:
           position: center
           color: '#555'
       - title: 深度学习 🧠
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: '深度学习是机器学习中一种基于对数据进行表征学习的算法。'
         align: left
         background:
           image:
@@ -49,7 +51,7 @@ sections:
           position: center
           color: '#555'
       - title: 大模型 🤖
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: '有问题才有答案。'
         align: left
         background:
           image:
