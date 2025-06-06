@@ -17,7 +17,7 @@ sections:
         country: 中国
       coordinates:
         latitude: '29.828845'  #原来：'29.828845'
-        longitude: '106.432215' #'106.434215'变大是右
+        longitude: '106.428215' #'106.434215'变大是右
       directions: 地址仅供参考，但请邮件联系。
       office_hours:
         - '会于七日内回复邮件。'
