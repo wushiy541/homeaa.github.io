@@ -11,7 +11,7 @@ main:
     url: deeplearning
     weight: 20
   - name: 大模型
-    url: post
+    url: bigM
     weight: 30
   - name: E-cargo
     url: ecargo

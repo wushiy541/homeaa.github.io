@@ -12,15 +12,15 @@ sections:
       image:
         filename: ecargo.jpg
       text: |
-        “基于角色的协同”（Role-Based Collaboration, 简称 RBC）是一种以“角色”为核心组织单位来实现任务协同、资源分配与行为管理的协作机制，广泛应用于多智能体系统、人机协同、企业管理、教育协作等领域。
+        深度学习是一种基于人工神经网络的信息处理方法，通过多层非线性变换自动学习数据特征，广泛应用于图像识别、自然语言处理和语音识别等领域，实现了高度的智能化和自动化，同时也面临着数据需求大、模型可解释性差等挑战。
   - block: markdown
     content:
-      title: E-cargo论文
+      title: 论文
       text: |
         ### 2025年
          1. Weiming Xiong, Mingyang Zhong, Shenglin Li, Haibin Zhu, Guojun Huang, Libo Zhang, RUL: Region Uncertainty Learning for Robust Face Recognition\[J\]. *IEEE Transactions on Multimedia*.(中科院一区)
         ### 2024年
-        
+
          2. Dong Li, Weiming Xiong, Tao Luo, Libo Zhang*. [3WAUS: A novel three-way adaptive uncertainty-suppressing model for facial expression recognition](https://doi.org/10.1016/j.ins.2024.120962)\[J\]. *Information Sciences*, 2024, 677: 120962.(中科院二区)
 
         ### 2023年

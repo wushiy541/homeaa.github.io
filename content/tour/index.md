@@ -9,9 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to BoGuan
-        content: 博观远志，抱艺修身。
-
-                 Take a look at what we're working on...
+        content: 博观远志，抱艺修身。\n Take a look at what we're working on...
         align: center
         background:
           image:
