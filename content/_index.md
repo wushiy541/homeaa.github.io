@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: ec.jpg
+            filename: ecargo.jpg
             filters:
               brightness: 0.7
           position: center
