@@ -10,7 +10,7 @@ sections:
       title: |
         E-CARGO
       image:
-        filename: ecargo.jpg
+        filename: .ecargo.jpg
       text: |
         “基于角色的协同”（Role-Based Collaboration, 简称 RBC）是一种以“角色”为核心组织单位来实现任务协同、资源分配与行为管理的协作机制，广泛应用于多智能体系统、人机协同、企业管理、教育协作等领域。
   - block: markdown
