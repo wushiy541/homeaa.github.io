@@ -14,7 +14,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: boguan.jpg
             filters:
               brightness: 0.7
           position: right
