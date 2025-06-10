@@ -64,7 +64,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: boguan2.jpg
             filters:
               brightness: 0.5
           position: center
