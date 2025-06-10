@@ -85,7 +85,7 @@ sections:
   - block: hero
     content:
       title: |
-        BoGuan Group
+        博观团队
       image:
         filename: logo.jpg
       text: |
