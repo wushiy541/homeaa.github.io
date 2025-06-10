@@ -128,7 +128,8 @@ sections:
       text: |
         1.第一主研，重庆市高等教育教育教学改革研究项目，创新型AI人才培养的多元化教学体系探究与改革；
 
-        2.主持，西南大学校级教育教学改革项目，《新工科背景下的算法设计类课程教学模式改革与实践》；       
+        2.主持，西南大学校级教育教学改革项目，《新工科背景下的算法设计类课程教学模式改革与实践》；  
+  - block: markdown     
     content:
       title: 奖项荣誉
       text: |
@@ -141,10 +142,12 @@ sections:
         4.2023年，西南大学优秀本科生班主任；
 
         5.2023年，西南大学优秀本科毕业论文指导老师；
+  - block: markdown
     content:
       title: 学术兼职及社会服务
       text: |
         中国计算机学会高级会员，中国计算机学会协同专委会委员，中国人工智能学会粒计算与知识发现专委会委员，担任IEEE TFS、IEEE TCSS和IEEE SMC-system等多个国际/国内期刊、会议审稿人。曾担任Frontiers in Physics (WOS Q2)客座主编、IEEE ScalCom 国际会议宣传主席，受邀在多个学术会议做特邀报告。
+  - block: markdown
     content:
       title: 近期指导学生部分获奖情况
       text: |
@@ -161,6 +164,7 @@ sections:
         6.2021年，指导学生参加高教社杯全国大学生数学建模竞赛获得全国二等奖1项；
 
         7.2021年，指导学生获得美国大学生数学建模竞赛特等奖提名奖1项；
+  - block: markdown
     content:
       title: 毕业学生去向
       text: |
