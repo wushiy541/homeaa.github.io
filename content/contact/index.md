@@ -8,7 +8,7 @@ sections:
     content:
       title: Contact
       text: |-
-        欢迎成绩优异、有良好反思与自我管理能力的学生加入我们团队。
+        欢迎成绩优异、有良好反思与自我管理能力的本科生、研究生加入我们团队。
       email: lbzhang@swu.edu.cn
       address:
         street: 天生路2号
