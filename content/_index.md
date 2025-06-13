@@ -54,7 +54,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: bigm.jpg
             filters:
               brightness: 0.7
           position: center
@@ -179,8 +179,8 @@ sections:
       text: |
          ### 2024届（2020级）本科生
          1人进入北理工读研，1人进入上科大读研，1人进入深圳大学读研，4人西南大学读研，2人境外升学；
-         ### 2024届（2020级）本科生
-         2人进入南京大学读研，1人进入清华大学读研，1人西南大学读研，1人进入中广核工作。
+         ### 2023届（2019级）本科生
+         2人进入南京大学读研，1人进入清华大学读研，2人西南大学读研，1人进入中广核工作。
   - block: markdown
     content:
       title:
