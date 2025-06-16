@@ -44,7 +44,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: deeplearning.jpg
             filters:
               brightness: 0.7
           position: center
