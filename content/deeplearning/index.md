@@ -10,7 +10,7 @@ sections:
       title: |
         深度学习
       image:
-        filename: ecargo.jpg
+        filename: deepone.jpg
       text: |
         深度学习是一种基于人工神经网络的信息处理方法，通过多层非线性变换自动学习数据特征，广泛应用于图像识别、自然语言处理和语音识别等领域，实现了高度的智能化和自动化，同时也面临着数据需求大、模型可解释性差等挑战。
   - block: markdown
