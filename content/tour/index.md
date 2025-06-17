@@ -34,7 +34,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: ldmhome.jpg
             filters:
               brightness: 0.7
           position: center
