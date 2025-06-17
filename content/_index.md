@@ -1,5 +1,5 @@
 ---
-# Leave the homepage title empty to use the site title
+# Leave the homepage title empty to use the site title，此文件和home一摸一样
 title:
 date: 2022-10-24
 type: landing
