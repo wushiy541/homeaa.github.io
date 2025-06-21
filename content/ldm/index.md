@@ -32,8 +32,7 @@ sections:
          
         ### 2023年
          8. Libo Zhang, Qiang Jin, Shuangyi Fan, Dun Liu*. [A Novel Dual-Center Based Intuitionistic Fuzzy Twin Bounded Large Margin Distribution Machines](https://doi.org/10.1109/TFUZZ.2023.3245215)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2023, 31(9)：3121-3134.(中科院一区TOP)
-         9. Libo Zhang, Qiang Jin, Shuangyi Fan, Dun Liu*. [A Novel Dual-Center-Based Intuitionistic Fuzzy Twin Bounded Large Margin Distribution Machines](https://doi.org/10.1109/TFUZZ.2023.3245215)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2023, 31(9): 3121-3134.(中科院一区TOP)
-         10. Lianyi Luo, Junjie Li, Yixi Dai, Libo Zhang*. [A Novel Bi-Center Intuitionistic Fuzzy Large Margin Classifier](https://doi.org/10.1109/ICCSSE59359.2023.10245296)\[C\]. *2023 9th International Conference on Control Science and Systems Engineering (ICCSSE)*, 2023: 403-408.
+         9. Lianyi Luo, Junjie Li, Yixi Dai, Libo Zhang*. [A Novel Bi-Center Intuitionistic Fuzzy Large Margin Classifier](https://doi.org/10.1109/ICCSSE59359.2023.10245296)\[C\]. *2023 9th International Conference on Control Science and Systems Engineering (ICCSSE)*, 2023: 403-408.
          
 
   - block: markdown
