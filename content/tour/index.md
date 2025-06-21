@@ -118,7 +118,7 @@ sections:
 
          8. Libo Zhang, Denghao Dong, Lianyi Luo, Dun Liu*. [A Novel Fuzzy Large Margin Distribution Machine with Unified Pinball Loss](https://doi.org/10.1109/TFUZZ.2023.3333571)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2024, 32(4): 1782-1795.(中科院一区TOP)
 
-         9. Libo Zhang, Zhihang Yu, Shiyu Wu, Haibin Zhu, Yin Sheng*. [Adaptive collaboration with training plan considering role correlation](https://doi.org/10.1109/TCSS.2022.3204052)\[J\]. *IEEE Transactions on Computational Social Systems*, 2024, 11(1): 25-37.
+         9. Libo Zhang, Zhihang Yu, Shiyu Wu, Haibin Zhu, Yin Sheng*. [Adaptive collaboration with training plan considering role correlation](https://doi.org/10.1109/TCSS.2022.3204052)\[J\]. *IEEE Transactions on Computational Social Systems*, 2024, 11(1): 25-37.(中科院二区)
         ### 2023年
          10. Libo Zhang, Qiang Jin, Shuangyi Fan, Dun Liu*. [A Novel Dual-Center Based Intuitionistic Fuzzy Twin Bounded Large Margin Distribution Machines](https://doi.org/10.1109/TFUZZ.2023.3245215)\[J\]. *IEEE Transactions on Fuzzy Systems*, 2023, 31(9)：3121-3134.(中科院一区TOP)
   - block: markdown

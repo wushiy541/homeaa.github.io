@@ -23,7 +23,7 @@ sections:
         ### 2024年
          3. Zhihang Yu, Bo Wang, Haibin Zhu, Libo Zhang*. [Adaptive Equalized Multigroup Role Assignment in Ordered Subtasks](https://doi.org/10.1109/TSMC.2024.3390138)\[J\]. *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2024, 54(8): 5085-5098.(中科院一区TOP)
 
-         4. Libo Zhang, Zhihang Yu, Shiyu Wu, Haibin Zhu, Yin Sheng*. [Adaptive collaboration with training plan considering role correlation](https://doi.org/10.1109/TCSS.2022.3204052)\[J\]. *IEEE Transactions on Computational Social Systems*, 2024, 11(1): 25-37.(中科院四区)
+         4. Libo Zhang, Zhihang Yu, Shiyu Wu, Haibin Zhu, Yin Sheng*. [Adaptive collaboration with training plan considering role correlation](https://doi.org/10.1109/TCSS.2022.3204052)\[J\]. *IEEE Transactions on Computational Social Systems*, 2024, 11(1): 25-37.(中科院二区)
 
          5. Xiangjun Liu, Shiyu Wu, Ruisi Yang, Libo Zhang*. [GRATP Model Based on Comprehensive Training Cost: Solving Collaboration Problems in Real-World Scenarios](https://doi.org/10.1109/MSMC.2023.3236491)\[J\]. *IEEE Systems, Man, and Cybernetics Magazine*, 2024, 10(3): 14-21.
 
@@ -38,6 +38,7 @@ sections:
 
         ### 2022年
          9. Cong Guo, Shiyu Wu, Haibin Zhu, Yin Sheng, Libo Zhang*. [Adaptive Collaboration with a Training Plan](https://doi.org/10.1109/CSCWD54268.2022.9776304)\[C\]. *2022 IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, 2022: 389-394.
+         
          10. Zhihang Yu, Ruisi Yang, Xiangjun Liu, Haibin Zhu, Libo Zhang*. [Multi-Group Role Assignment with Constraints in Adaptive Collaboration](https://doi.org/10.1109/SMC53654.2022.9945590)\[C\]. *2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, 2022: 748-754.
         
         ### 2021年
