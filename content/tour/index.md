@@ -19,7 +19,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: E-cargo 🤝
+      - title: E-CARGO 🤝
         content: '君君臣臣，父父子子。'
         align: left
         background:
