@@ -9,7 +9,7 @@ sections:
     content:
       title: 👋 About Me
       username: ShiyuWu
-      background: /assets/media/ec.jpg   # 背景图路径
+      background: ec.jpg   # 背景图路径
   - block: markdown
     content:
       title: E-cargo Papers
