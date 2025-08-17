@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     content:
       title: 👋 About Me
-      username: 张里博
+      username: ShiyuWu
       background: /assets/media/background.svg   # 背景图路径
   - block: markdown
     content:

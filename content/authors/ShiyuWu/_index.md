@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 张里博
+title: Shiyu Wu
 
 # Full name (for SEO)
-first_name: Libo
-last_name: Zhang
+first_name: Shiyu
+last_name: Wu
 
 # Username (this should match the folder name)
 authors:
-  - 张里博
+  - ShiyuWu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 副教授
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -69,12 +69,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'lbzhang@swu.edu.cn'
+email: 'syuwu@foxmail.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 导师
+  - PhD
 #  - Visitors   如果增加会添加一个类别
 ---
 
