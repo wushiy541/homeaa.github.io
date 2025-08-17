@@ -45,6 +45,13 @@ sections:
     content:
       title: 导师
       username: 张里博
+    background:
+          image:
+            filename: background.svg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
   - block: markdown
     content:
       title: 论文
