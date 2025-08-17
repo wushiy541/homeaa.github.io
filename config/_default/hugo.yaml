@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: BoGuan Group # Website name
+title: Shiyu Wu # Website name
 baseURL: 'https://boguanteam.github.io/' # Website URL
 
 ############################

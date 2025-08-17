@@ -10,18 +10,3 @@ main:
   - name: 深度学习
     url: deeplearning
     weight: 20
-  - name: 大模型
-    url: bigmodel
-    weight: 30
-  - name: E-cargo
-    url: ecargo
-    weight: 40
-  - name: LDM
-    url: ldm
-    weight: 50
-  - name: People
-    url: people
-    weight: 60
-  - name: Contact
-    url: contact
-    weight: 70
