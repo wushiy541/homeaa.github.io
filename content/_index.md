@@ -5,6 +5,16 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: 👋 About Me
+      text: Shiyu Wu is a graduate student in Computer Science ...
+    design:
+      background:
+        image: /assets/media/ec.jpg
+        size: cover
+        position: center
+sections:
   - block: about.biography
     content:
       title: 👋 About Me
