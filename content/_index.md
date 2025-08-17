@@ -5,23 +5,11 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: slider
-    content:
-      slides:
-      - title: 👋 About Me
-        content: 
-
   - block: about.biography
     content:
-      title: About Me
+      title: 👋 About Me
       username: 张里博
-    background:
-          image:
-            filename: background.svg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
+      background: /assets/media/background.svg   # 背景图路径
   - block: markdown
     content:
       title: 论文
