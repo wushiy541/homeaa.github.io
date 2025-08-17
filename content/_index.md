@@ -19,56 +19,6 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: E-CARGO 🤝
-        content: '君君臣臣，父父子子。'
-        align: left
-        background:
-          image:
-            filename: ecargo.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'    
-      - title: LDM 📊
-        content: '最大化间隔。'
-        align: left
-        background:
-          image:
-            filename: ldmhome.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: 深度学习 🧠
-        content: '深度学习是机器学习中一种基于对数据进行表征学习的算法。'
-        align: left
-        background:
-          image:
-            filename: deeplearning.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: 大模型 🤖
-        content: '有问题才有答案。'
-        align: left
-        background:
-          image:
-            filename: bigm.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: BoGuan Group
-        content: 'Research with us!'
-        align: right
-        background:
-          image:
-            filename: boguan2.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
         link:
           icon: graduation-cap
           icon_pack: fas
