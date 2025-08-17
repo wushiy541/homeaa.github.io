@@ -14,7 +14,7 @@ sections:
         align: center
         background:
           image:
-            filename: boguan.jpg
+            filename: background.svg
             filters:
               brightness: 0.7
           position: right
