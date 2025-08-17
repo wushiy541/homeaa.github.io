@@ -9,41 +9,11 @@ sections:
     content:
       slides:
       - title: 👋 About Me
-        content: Shiyu Wu is a graduate student in Computer Science at Southwest University. His research interests include team collaboration optimization, intelligent decision-making, and E-CARGO-based modeling. He has published papers in leading journals such as IEEE Transactions on Systems, Man and Cybernetics and IEEE Transactions on Cybernetics, and presented his work at international conferences like CSCWD. Currently, he is focusing on role-based collaboration and the development of self-organizing multi-agent systems for task allocation and coordination. He is an active member of the E-CARGO research community and is committed to advancing intelligent collaborative systems.
-        align: center
-        background:
-          image:
-            filename: background.svg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
-  - block: hero
-    content:
-      title: |
-        博观团队
-      image:
-        filename: boguanmain.jpg
-      text: |
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎来到博观团队！<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“博观远志，抱艺修身”是我们团队凝练出的理念。“博观”出自宋代苏轼《送张琥》"博观而约取，厚积而薄发"，强调开阔视野、广泛涉猎，要求科研人员不断拓宽知识边界，了解不同领域的发展脉络；“远志”则代表高远的志向与责任担当，引导我们立足长远，追求有深度、有价值的科研成果；“抱艺”体现对专业技艺的执着与精进，鼓励每位成员在各自领域中深耕细作，不断突破创新；“修身”则提醒我们以德为先，恪守学术规范，注重品格修养。<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博观团队成立于2019年，主要研究为机器学习、深度学习、智能决策、大模型等，也从事不确定性学习、三支决策和网络传播等方面的研究，具体的内容介绍与相关论文可以看网站相关页面。在IEEE TSMC-SYSTEM、IEEE TFS、IEEE TCYB等发表论文二十余篇。获挑战杯全国一等奖（黑科技赛道“恒星级”）、机器人及人工智能大赛全国一等奖、中国高校计算机大赛全国一等奖、高教社杯全国大学生数学建模竞赛全国二等奖等。<br>
+        content: 
+
   - block: about.biography
     content:
-      title: 导师
+      title: About Me
       username: 张里博
     background:
           image:
