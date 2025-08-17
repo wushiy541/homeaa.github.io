@@ -8,9 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to BoGuan
-        content: 博观远志，抱艺修身。<br>
-                 Take a look at what we're working on...
+      - title: 👋 About Me
+        content: Shiyu Wu is a graduate student in Computer Science at Southwest University. His research interests include team collaboration optimization, intelligent decision-making, and E-CARGO-based modeling. He has published papers in leading journals such as IEEE Transactions on Systems, Man and Cybernetics and IEEE Transactions on Cybernetics, and presented his work at international conferences like CSCWD. Currently, he is focusing on role-based collaboration and the development of self-organizing multi-agent systems for task allocation and coordination. He is an active member of the E-CARGO research community and is committed to advancing intelligent collaborative systems.
         align: center
         background:
           image:
