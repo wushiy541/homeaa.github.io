@@ -25,43 +25,54 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 机器学习
-  - 深度学习
-  - 大模型
-  - 智能决策
-  - 智能协作等
+  - Role-based Collaboration
+  - E-cargo
+  - Group role assignment
+
+education:
+  - area: 硕士 计算机科学与技术
+    institution: 西南大学
+    date_start: 2023-09-01
+    date_end: 2025-06-01
+    summary: |
+      GPA: 4.0/5.0
+      Courses included:
+      - 计算原理
+      - 网络科学导论
+      - 机器学习与模式识别
+  - area: 本科 智能科学与技术
+    institution: 西南大学
+    date_start: 2019-09-01
+    date_end: 2023-06-01
+    summary: |
+      GPA: 3.9/5.0
 
 education:
   courses:
-    - course: 人工智能学院，副教授
+    - course: 硕士 计算机科学与技术
       institution: 西南大学
-      year: 2023.07至今
-    - course: 人工智能学院，讲师
+      year: 2023.09-2025.06
+    - course: 本科 智能科学与技术
       institution: 西南大学
       year: 2019.07-2023.06
-    - course: 工程管理学院，硕博连读，导师：周献中、李华雄
-      institution: 南京大学
-      year: 2013.09-2019.03
-    - course: 理学院，学士
-      institution: 浙江工业大学
-      year: 2009.09-2013.06
-    - course: 工程与计算机学院，导师：Lexing Xie、Chritian Walder
-      institution: 澳大利亚国立大学
-      year: 2017.02-2018.02
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'lbzhang@swu.edu.cn'
+    link: 'syuwu@foxmail.com'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=8I-krtYAAAAJ&hl=zh-CN&oi=ao
+    link: https://orcid.org/0000-0002-9816-0437 #待修改
   - icon: github
     icon_pack: fab
-    link: https://orcid.org/0000-0001-5992-0790
+    link: https://github.com/wushiy541
+  - icon: orcid
+    icon_pack: orcid
+    link: https://orcid.org/0000-0002-9816-0437
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
