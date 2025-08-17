@@ -10,9 +10,13 @@ sections:
       title: 👋 About Me
       username: ShiyuWu
       background: /assets/media/ec.jpg   # 背景图路径
+      image:
+        filename: ec.jpg
   - block: markdown
     content:
       title: E-cargo Papers
+      image:
+        filename: ec.jpg
       text: |
         ### 2025年
          1. Shiyu Wu, Shenglin Li, Haibin Zhu, Rui Chen, Libo Zhang*, [Group Role Three-Way Assignment for Managing Uncertainty in Role Negotiation](https://doi.org/10.1109/TCYB.2025.3558402)[J]. *IEEE Transactions on Cybernetics*, 2025, 55(6): 2924-2936.(中科院一区TOP)
