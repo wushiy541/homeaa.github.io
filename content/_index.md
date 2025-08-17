@@ -9,7 +9,7 @@ sections:
     content:
       title: 👋 About Me
       username: ShiyuWu
-      background: /assets/media/background.svg   # 背景图路径
+      background: /assets/media/ec.jpg   # 背景图路径
   - block: markdown
     content:
       title: E-cargo Papers
@@ -95,12 +95,4 @@ sections:
          1人进入北理工读研，1人进入上科大读研，1人进入深圳大学读研，4人西南大学读研，2人境外升学；
          ### 2023届（2019级）本科生
          2人进入南京大学读研，1人进入清华大学读研，2人西南大学读研，1人进入中广核工作。
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./contact/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
