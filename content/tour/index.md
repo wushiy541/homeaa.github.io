@@ -4,8 +4,9 @@ title:
 date: 2022-10-24
 type: landing
 
+
 sections:
-  - block: hero
+  - block: about.biography
     design:
       background:
         image:
@@ -13,10 +14,13 @@ sections:
         size: cover
         position: center
     content:
-      title: 👋 About Me22
-      text: Shiyu Wu is a graduate student in Computer Science ...
+      title: 👋 About Me1
+      username: ShiyuWu
+  - block: markdown
     content:
       title: E-cargo Papers
+      image:
+        filename: ec.jpg
       text: |
         ### 2025年
          1. Shiyu Wu, Shenglin Li, Haibin Zhu, Rui Chen, Libo Zhang*, [Group Role Three-Way Assignment for Managing Uncertainty in Role Negotiation](https://doi.org/10.1109/TCYB.2025.3558402)[J]. *IEEE Transactions on Cybernetics*, 2025, 55(6): 2924-2936.(中科院一区TOP)
