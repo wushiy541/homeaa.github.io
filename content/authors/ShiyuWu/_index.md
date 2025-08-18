@@ -35,7 +35,6 @@ education:
     - course: PhD, Information & Systems Engineering
       institution: Concordia University
       year: 2025.09 to present
-  courses:
     - course: Master's in Computer Science and Technology
       institution: Southwest University
       year: 2023.09-2025.06
