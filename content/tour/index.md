@@ -11,10 +11,10 @@ sections:
       text: Shiyu Wu is a graduate student in Computer Science ...
     design:
       background:
-        image: /assets/media/ec.jpg
+        image:
+          filename: ec.jpg
         size: cover
         position: center
-  - block: markdown
     content:
       title: E-cargo Papers
       text: |
