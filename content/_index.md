@@ -7,18 +7,15 @@ type: landing
 
 sections:
   - block: about.biography
+    design:
+      background:
+        image:
+          filename: bg.jpg
+        size: cover
+        position: center
     content:
       title: 👋 About Me1
       username: ShiyuWu
-      design:
-         background:
-           image: /assets/media/ec.jpg    
-           image_darken: 0.4         # 背景加暗效果 (0–1 之间)
-           size: cover
-           position: center
-      background: /assets/media/ec.jpg   # 背景图路径
-      image:
-        filename: ec.jpg
   - block: markdown
     content:
       title: E-cargo Papers
