@@ -10,7 +10,7 @@ sections:
       title: 
          👋 About Me22
       image:
-          filename: background.svg
+          filename: bg.jpg
       text: Shiyu Wu is a graduate student in Computer Science ...
     design:
       background:
