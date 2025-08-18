@@ -15,7 +15,7 @@ sections:
         position: center
         text_color_light: true   # 让文字颜色变成白色
     content:
-      title: 👋 About Me1
+      title: 👋 About Me
       username: ShiyuWu
   - block: markdown
     content:
@@ -40,9 +40,9 @@ sections:
 
         ### 2022年
         7. Cong Guo, Shiyu Wu, Haibin Zhu, Yin Sheng, Libo Zhang*. [Adaptive Collaboration with a Training Plan](https://doi.org/10.1109/CSCWD54268.2022.9776304)[C]. *2022 IEEE 25th International Conference on Computer Supported Cooperative Work in Design (CSCWD)*, 2022: 389-394.
-  - block: markdown
-    content:
-      title: Awards
-      text: |
-        1.
+  #- block: markdown
+  #  content:
+  #    title: Awards
+   #   text: |
+  #      1.
 ---

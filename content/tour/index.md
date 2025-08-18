@@ -15,7 +15,7 @@ sections:
         position: center
         text_color_light: true   # 让文字颜色变成白色
     content:
-      title: 👋 About Me1
+      title: 👋 About Me
       username: ShiyuWu
   - block: markdown
     content:
