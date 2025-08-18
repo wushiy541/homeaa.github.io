@@ -13,8 +13,7 @@ sections:
         size: cover
         position: center
     content:
-      title: 
-         👋 About Me22
+      title: 👋 About Me22
       text: Shiyu Wu is a graduate student in Computer Science ...
     content:
       title: E-cargo Papers
