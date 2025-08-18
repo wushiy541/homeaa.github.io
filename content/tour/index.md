@@ -15,7 +15,7 @@ sections:
     design:
       background:
         image:
-          filename: ec.jpg
+          filename: bg.jpg
         size: cover
         position: center
     content:
