@@ -13,6 +13,7 @@ sections:
           filename: bg.jpg
         size: cover
         position: center
+        text_color_light: true   # 让文字颜色变成白色
     content:
       title: 👋 About Me1
       username: ShiyuWu
