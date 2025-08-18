@@ -5,15 +5,15 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.biography
+  - block: hero
     content:
-      title: 👋 About Me
-      username: ShiyuWu
-      design:
-         background:
-           image: ec.jpg
-           size: cover
-           position: center
+      title: 👋 About Me22
+      text: Shiyu Wu is a graduate student in Computer Science ...
+    design:
+      background:
+        image: /assets/media/ec.jpg
+        size: cover
+        position: center
   - block: markdown
     content:
       title: E-cargo Papers
