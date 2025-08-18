@@ -7,7 +7,10 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 👋 About Me22
+      title: 
+         👋 About Me22
+      image:
+          filename: ec.jpg
       text: Shiyu Wu is a graduate student in Computer Science ...
     design:
       background:
