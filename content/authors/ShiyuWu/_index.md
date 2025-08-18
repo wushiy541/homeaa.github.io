@@ -36,11 +36,11 @@ education:
       institution: Concordia University
       year: 2025.09 to present
   courses:
-    - course: 硕士 计算机科学与技术
-      institution: 西南大学
+    - course: Master's in Computer Science and Technology
+      institution: Southwest University
       year: 2023.09-2025.06
-    - course: 本科 智能科学与技术
-      institution: 西南大学
+    - course: Bachelor's in Intelligent Science and Technology
+      institution: Southwest University
       year: 2019.07-2023.06
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'syuwu@foxmail.com'
+    link: 'mailto:syuwu@foxmail.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://orcid.org/0000-0002-9816-0437 #待修改
