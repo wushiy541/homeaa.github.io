@@ -18,8 +18,8 @@ role: PhD
 
 # Organizations/Affiliations
 organizations:
-  - name: 西南大学 人工智能学院
-    url: 'https://ai.swu.edu.cn/'
+  - name: Concordia University, Gina Cody School of Engineering and Computer Science
+    url: 'https://www.concordia.ca/ginacody.html'
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,25 +29,12 @@ interests:
   - E-cargo
   - Group role assignment
 
-education:
-  - area: 硕士 计算机科学与技术
-    institution: 西南大学
-    date_start: 2023-09-01
-    date_end: 2025-06-01
-    summary: |
-      GPA: 4.0/5.0
-      Courses included:
-      - 计算原理
-      - 网络科学导论
-      - 机器学习与模式识别
-  - area: 本科 智能科学与技术
-    institution: 西南大学
-    date_start: 2019-09-01
-    date_end: 2023-06-01
-    summary: |
-      GPA: 3.9/5.0
 
 education:
+  courses:
+    - course: PhD, Information & Systems Engineering
+      institution: Concordia University
+      year: 2025.09 to present
   courses:
     - course: 硕士 计算机科学与技术
       institution: 西南大学
