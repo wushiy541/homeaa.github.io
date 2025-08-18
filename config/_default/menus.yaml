@@ -7,6 +7,6 @@ main:
   - name: Home
     url: tour
     weight: 10
-  - name: 深度学习
+  - name: Experience
     url: deeplearning
     weight: 20
