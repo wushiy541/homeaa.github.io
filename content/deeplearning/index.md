@@ -12,7 +12,6 @@ sections:
       text: |
         🌏 Native Chinese | English IELTS 6.5  
         💻 Python & MATLAB  
-        🤖 Machine Learning & Data Analysis Enthusiast
   #- block: markdown
     #content:
       #title: 论文
